@@ -10,7 +10,7 @@ Compatible with python 3.6_
 
 #Installation
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 # Build
 
