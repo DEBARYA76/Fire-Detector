@@ -8,11 +8,11 @@ Compatible with python 3.6_
 
 -----------------
 
-#Installation
+# Installation
 
 ```pip install -r requirements.txt```
 
-# Build
+## Build
 
 Train the model using the ```train.py``` file
 
