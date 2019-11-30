@@ -1,0 +1,5 @@
+keras
+python-cv2
+numpy
+matplotlib
+pyimagesearch
